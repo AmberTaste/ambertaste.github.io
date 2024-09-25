@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='http://ambertaste.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='September 25, 2024 7:11 am' -->
+<!-- generated-on='September 25, 2024 7:42 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>http://ambertaste.com/2024/09/23/%e5%ae%89%e6%b3%8a%e5%b0%94%e6%b8%85%e7%9c%9f%e4%ba%94%e9%a6%99%e5%9e%8b%e7%89%9b%e8%82%89%e8%86%8f%e6%b5%93%e7%bc%a9%e7%89%9b%e8%82%89%e5%a2%9e%e9%a6%99%e5%a2%9e%e9%b2%9c%e8%86%8f%e7%81%ab%e9%94%85/</loc>
 		<lastmod>2024-09-24T15:54:30+00:00</lastmod>
@@ -132,4 +132,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 64e26e11c031bfa71480df6b02b9a19a; Queries for sitemap: 3; Total queries: 55; Seconds: 0; Memory for sitemap: 1KB; Total memory: 8MB -->
+</urlset><!-- Request ID: aad92d477b9944cdd5bb50f1533f911c; Queries for sitemap: 3; Total queries: 55; Seconds: 0; Memory for sitemap: 1KB; Total memory: 8MB -->
