@@ -1,0 +1,2239 @@
+{
+  "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-11-21T08:19:00+00:00",
+  "documents": [
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505",
+      "route": "/2024/09/23/\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/23/\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/23/\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/23/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E4%BA%94%E9%A6%99%E5%9E%8B%E7%89%9B%E8%82%89%E8%86%8F%E6%B5%93%E7%BC%A9%E7%89%9B%E8%82%89%E5%A2%9E%E9%A6%99%E5%A2%9E%E9%B2%9C%E8%86%8F%E7%81%AB%E9%94%85/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/23/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E4%BA%94%E9%A6%99%E5%9E%8B%E7%89%9B%E8%82%89%E8%86%8F%E6%B5%93%E7%BC%A9%E7%89%9B%E8%82%89%E5%A2%9E%E9%A6%99%E5%A2%9E%E9%B2%9C%E8%86%8F%E7%81%AB%E9%94%85/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/23/\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:54:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999",
+      "route": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/24/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%85%B1%E9%A6%99%E5%9E%8B%E7%89%9B%E8%82%89%E8%86%8F%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%A3%9F%E5%93%81%E6%B7%BB%E5%8A%A0%E5%A2%9E%E9%A6%99/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/24/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%85%B1%E9%A6%99%E5%9E%8B%E7%89%9B%E8%82%89%E8%86%8F%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%A3%9F%E5%93%81%E6%B7%BB%E5%8A%A0%E5%A2%9E%E9%A6%99/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:37:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95",
+      "route": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/24/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%AB%98%E6%B1%A4%E4%B8%93%E7%94%A8%E6%96%99%E7%BA%AF%E9%AA%A8%E6%B1%A4%E7%89%9B%E8%82%89%E6%B1%A4%E7%89%9B%E8%82%89%E9%9D%A2%E7%81%AB%E9%94%85%E5%BA%95/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/24/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%AB%98%E6%B1%A4%E4%B8%93%E7%94%A8%E6%96%99%E7%BA%AF%E9%AA%A8%E6%B1%A4%E7%89%9B%E8%82%89%E6%B1%A4%E7%89%9B%E8%82%89%E9%9D%A2%E7%81%AB%E9%94%85%E5%BA%95/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:25:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599",
+      "route": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/24/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%AB%98%E9%92%99%E7%89%9B%E9%AA%A8%E6%B1%A4%E5%AE%9D%E9%AA%A8%E6%B1%A4%E7%89%9B%E9%AA%A8%E6%B1%A4%E7%B1%B3%E7%BA%BF%E7%81%AB%E9%94%85%E6%B1%A4%E6%96%99/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/24/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%AB%98%E9%92%99%E7%89%9B%E9%AA%A8%E6%B1%A4%E5%AE%9D%E9%AA%A8%E6%B1%A4%E7%89%9B%E9%AA%A8%E6%B1%A4%E7%B1%B3%E7%BA%BF%E7%81%AB%E9%94%85%E6%B1%A4%E6%96%99/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/24/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:55:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E5%95%86%E7%94%A8%E9%BA%BB%E8%BE%A3%E6%8B%8C%E8%B0%83%E5%91%B3%E9%85%B1%E5%8B%BE%E9%AD%82%E7%88%BD%E5%8F%A3%E9%A3%9F%E5%93%81%E9%A3%8E%E5%91%B3%E9%85%B1/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E5%95%86%E7%94%A8%E9%BA%BB%E8%BE%A3%E6%8B%8C%E8%B0%83%E5%91%B3%E9%85%B1%E5%8B%BE%E9%AD%82%E7%88%BD%E5%8F%A3%E9%A3%9F%E5%93%81%E9%A3%8E%E5%91%B3%E9%85%B1/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E5%95%86%E7%94%A8%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%94%85%E9%85%B15kg%E7%BE%8E%E5%91%B3%E4%B8%B2%E4%B8%B2%E9%A6%99%E9%A3%8E%E5%91%B3%E5%B0%8F%E9%BE%99/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E5%95%86%E7%94%A8%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%94%85%E9%85%B15kg%E7%BE%8E%E5%91%B3%E4%B8%B2%E4%B8%B2%E9%A6%99%E9%A3%8E%E5%91%B3%E5%B0%8F%E9%BE%99/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E6%B5%93%E7%BC%A9%E9%B8%A1%E8%82%89%E7%B2%89%E9%B2%9C%E9%A6%99%E7%B2%89%E6%B5%93%E9%A6%99%E9%B8%A1%E7%B2%89%E9%AA%A8%E6%B1%A4%E7%B2%89%E6%B1%A4%E6%96%99/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E6%B5%93%E7%BC%A9%E9%B8%A1%E8%82%89%E7%B2%89%E9%B2%9C%E9%A6%99%E7%B2%89%E6%B5%93%E9%A6%99%E9%B8%A1%E7%B2%89%E9%AA%A8%E6%B1%A4%E7%B2%89%E6%B1%A4%E6%96%99/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E6%B5%93%E7%BC%A9%E9%B8%A1%E8%82%89%E7%B2%BE%E7%B2%89%E9%B2%9C%E9%A6%99%E7%B2%89%E6%B5%93%E9%A6%99%E9%B8%A1%E7%B2%89%E9%AA%A8%E6%B1%A4%E7%B2%89%E6%B1%A4/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E6%B5%93%E7%BC%A9%E9%B8%A1%E8%82%89%E7%B2%BE%E7%B2%89%E9%B2%9C%E9%A6%99%E7%B2%89%E6%B5%93%E9%A6%99%E9%B8%A1%E7%B2%89%E9%AA%A8%E6%B1%A4%E7%B2%89%E6%B1%A4/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%89%9B%E8%82%89%E7%B2%89%E9%B2%9C%E9%A6%99%E7%B2%89%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%89%9B%E8%82%89%E9%A3%8E%E5%91%B3%E9%A6%99%E8%82%A0/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%89%9B%E8%82%89%E7%B2%89%E9%B2%9C%E9%A6%99%E7%B2%89%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%89%9B%E8%82%89%E9%A3%8E%E5%91%B3%E9%A6%99%E8%82%A0/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%89%9B%E8%82%89%E7%B2%BE%E7%B2%89%E9%B2%9C%E9%A6%99%E7%B2%89%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%89%9B%E8%82%89%E9%A3%8E%E5%91%B3%E9%A6%99/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%89%9B%E8%82%89%E7%B2%BE%E7%B2%89%E9%B2%9C%E9%A6%99%E7%B2%89%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%89%9B%E8%82%89%E9%A3%8E%E5%91%B3%E9%A6%99/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%89%9B%E8%82%89%E7%B2%BE%E8%86%8F%E4%BA%94%E9%A6%99%E5%9E%8B%E7%BE%8E%E5%91%B3%E9%A5%BA%E5%AD%90%E4%B8%B8%E5%AD%90%E9%A6%99%E8%82%A0%E4%B8%93%E7%94%A8/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%89%9B%E8%82%89%E7%B2%BE%E8%86%8F%E4%BA%94%E9%A6%99%E5%9E%8B%E7%BE%8E%E5%91%B3%E9%A5%BA%E5%AD%90%E4%B8%B8%E5%AD%90%E9%A6%99%E8%82%A0%E4%B8%93%E7%94%A8/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:51:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%89%9B%E9%AA%A8%E9%AB%98%E6%B1%A4%E5%95%86%E7%94%A8%E7%BA%AF%E9%AA%A8%E6%B1%A4%E7%89%9B%E8%82%89%E6%B1%A4%E7%89%9B%E8%82%89%E9%9D%A2%E7%81%AB%E9%94%85/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%89%9B%E9%AA%A8%E9%AB%98%E6%B1%A4%E5%95%86%E7%94%A8%E7%BA%AF%E9%AA%A8%E6%B1%A4%E7%89%9B%E8%82%89%E6%B1%A4%E7%89%9B%E8%82%89%E9%9D%A2%E7%81%AB%E9%94%85/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:37:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%BE%8E%E5%91%B3%E9%A3%9F%E5%93%81%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%85%B1%E6%96%99%E9%A4%90%E9%A5%AE%E8%BF%9E%E9%94%81%E4%B8%93%E7%94%A8-%E9%85%B1%E6%96%99/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E7%BE%8E%E5%91%B3%E9%A3%9F%E5%93%81%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%85%B1%E6%96%99%E9%A4%90%E9%A5%AE%E8%BF%9E%E9%94%81%E4%B8%93%E7%94%A8-%E9%85%B1%E6%96%99/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%9D%92%E8%8A%B1%E6%A4%92%E9%B8%A1%E8%86%8F%E9%B8%A1%E8%82%89%E9%B2%9C%E9%A6%99%E7%BE%8E%E5%91%B3%E9%A3%9F%E5%93%81%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%9D%92%E8%8A%B1%E6%A4%92%E9%B8%A1%E8%86%8F%E9%B8%A1%E8%82%89%E9%B2%9C%E9%A6%99%E7%BE%8E%E5%91%B3%E9%A3%9F%E5%93%81%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%AA%A8%E6%B1%A4%E9%BA%BB%E8%BE%A3%E6%B1%A4%E9%85%B1%E6%96%99%E6%B5%93%E7%BC%A9%E8%90%A5%E5%85%BB%E5%8F%AF%E5%96%9D%E6%B1%A4%E7%9A%84%E9%BA%BB%E8%BE%A3-2/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%AA%A8%E6%B1%A4%E9%BA%BB%E8%BE%A3%E6%B1%A4%E9%85%B1%E6%96%99%E6%B5%93%E7%BC%A9%E8%90%A5%E5%85%BB%E5%8F%AF%E5%96%9D%E6%B1%A4%E7%9A%84%E9%BA%BB%E8%BE%A3-2/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%AA%A8%E6%B1%A4%E9%BA%BB%E8%BE%A3%E6%B1%A4%E9%85%B1%E6%96%99%E6%B5%93%E7%BC%A9%E8%90%A5%E5%85%BB%E5%8F%AF%E5%96%9D%E6%B1%A4%E7%9A%84%E9%BA%BB%E8%BE%A3/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%AA%A8%E6%B1%A4%E9%BA%BB%E8%BE%A3%E6%B1%A4%E9%85%B1%E6%96%99%E6%B5%93%E7%BC%A9%E8%90%A5%E5%85%BB%E5%8F%AF%E5%96%9D%E6%B1%A4%E7%9A%84%E9%BA%BB%E8%BE%A3/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%B8%A1%E8%82%89%E8%86%8F%E9%B8%A1%E8%82%89%E9%B2%9C%E9%A6%99%E8%86%8F%E9%B8%A1%E7%B2%BE%E8%86%8F%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%AB%98/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%B8%A1%E8%82%89%E8%86%8F%E9%B8%A1%E8%82%89%E9%B2%9C%E9%A6%99%E8%86%8F%E9%B8%A1%E7%B2%BE%E8%86%8F%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%AB%98/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%B8%A1%E8%82%89%E9%A6%99%E8%86%8F%E9%B8%A1%E8%82%89%E9%B2%9C%E9%A6%99%E8%86%8F%E9%B8%A1%E7%B2%BE%E8%86%8F%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%B8%A1%E8%82%89%E9%A6%99%E8%86%8F%E9%B8%A1%E8%82%89%E9%B2%9C%E9%A6%99%E8%86%8F%E9%B8%A1%E7%B2%BE%E8%86%8F%E7%81%AB%E9%94%85%E9%BA%BB%E8%BE%A3%E7%83%AB/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%94%85%E9%85%B11-5kg%E4%B8%B2%E4%B8%B2%E9%A6%99%E8%BE%A3%E9%85%B1%E5%B0%8F%E9%BE%99%E8%99%BE%E9%A6%99%E9%94%85%E5%B9%B2/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%94%85%E9%85%B11-5kg%E4%B8%B2%E4%B8%B2%E9%A6%99%E8%BE%A3%E9%85%B1%E5%B0%8F%E9%BE%99%E8%99%BE%E9%A6%99%E9%94%85%E5%B9%B2/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D",
+      "route": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%BA%BB%E8%BE%A3%E9%B8%A1%E8%86%8F%E9%B8%A1%E8%82%89%E9%B2%9C%E9%A6%99%E8%86%8F%E9%B8%A1%E8%82%89%E7%B2%BE%E8%86%8F%E7%B1%B3%E7%BA%BF%E7%B2%89%E4%B8%9D/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E5%AE%89%E6%B3%8A%E5%B0%94%E6%B8%85%E7%9C%9F%E9%BA%BB%E8%BE%A3%E9%B8%A1%E8%86%8F%E9%B8%A1%E8%82%89%E9%B2%9C%E9%A6%99%E8%86%8F%E9%B8%A1%E8%82%89%E7%B2%BE%E8%86%8F%E7%B1%B3%E7%BA%BF%E7%B2%89%E4%B8%9D/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89",
+      "canonicalId": "\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89",
+      "route": "/2024/09/25/\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E6%B8%85%E7%9C%9F%E7%BE%8E%E5%91%B3%E9%A3%9F%E5%93%81%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%85%B1%E6%96%99%E9%A4%90%E9%A5%AE%E8%BF%9E%E9%94%81%E4%B8%93%E7%94%A8%E9%85%B1%E6%96%9990%E5%85%8B%E7%B2%89/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E6%B8%85%E7%9C%9F%E7%BE%8E%E5%91%B3%E9%A3%9F%E5%93%81%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%85%B1%E6%96%99%E9%A4%90%E9%A5%AE%E8%BF%9E%E9%94%81%E4%B8%93%E7%94%A8%E9%85%B1%E6%96%9990%E5%85%8B%E7%B2%89/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1",
+      "canonicalId": "\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1",
+      "route": "/2024/09/25/\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/2024/09/25/%E9%A9%AC%E9%A2%86%E5%86%9B%E6%B8%85%E7%9C%9F%E9%B8%A1%E7%B2%89%E9%B8%A1%E7%B2%BE%E6%B5%93%E9%83%81%E5%8E%9F%E5%91%B3%E9%86%87%E9%B2%9C%E7%82%92%E8%8F%9C%E7%BA%AF%E6%B1%A4%E8%B0%83%E5%91%B3%E5%93%81/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/2024/09/25/%E9%A9%AC%E9%A2%86%E5%86%9B%E6%B8%85%E7%9C%9F%E9%B8%A1%E7%B2%89%E9%B8%A1%E7%B2%BE%E6%B5%93%E9%83%81%E5%8E%9F%E5%91%B3%E9%86%87%E9%B2%9C%E7%82%92%E8%8F%9C%E7%BA%AF%E6%B1%A4%E8%B0%83%E5%91%B3%E5%93%81/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/2024/09/25/\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "about",
+      "canonicalId": "about",
+      "route": "/about/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/about/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/about/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/about/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/about/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/about/"
+        }
+      ],
+      "publishedAt": "2026-11-09T07:54:00+00:00"
+    },
+    {
+      "id": "contact",
+      "canonicalId": "contact",
+      "route": "/contact/",
+      "language": "zh-Hans",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/contact/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/contact/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/contact/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/contact/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/contact/"
+        }
+      ],
+      "publishedAt": "2026-11-09T07:53:00+00:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505",
+      "route": "/en/2024/09/23/halal-five-spice-beef-extract-paste-1kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/23/halal-five-spice-beef-extract-paste-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/23/halal-five-spice-beef-extract-paste-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/23/halal-five-spice-beef-extract-paste-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/23/halal-five-spice-beef-extract-paste-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/23/halal-five-spice-beef-extract-paste-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:54:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95",
+      "route": "/en/2024/09/24/halal-bone-broth-base-1kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/24/halal-bone-broth-base-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/24/halal-bone-broth-base-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/24/halal-bone-broth-base-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/24/halal-bone-broth-base-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/24/halal-bone-broth-base-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:25:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599",
+      "route": "/en/2024/09/24/halal-high-calcium-beef-bone-soup/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/24/halal-high-calcium-beef-bone-soup/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/24/halal-high-calcium-beef-bone-soup/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/24/halal-high-calcium-beef-bone-soup/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/24/halal-high-calcium-beef-bone-soup/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/24/halal-high-calcium-beef-bone-soup/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:55:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999",
+      "route": "/en/2024/09/24/halal-savoury-beef-extract-paste-1kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/24/halal-savoury-beef-extract-paste-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/24/halal-savoury-beef-extract-paste-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/24/halal-savoury-beef-extract-paste-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/24/halal-savoury-beef-extract-paste-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/24/halal-savoury-beef-extract-paste-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:37:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505",
+      "route": "/en/2024/09/25/halal-beef-bone-stock-1kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-beef-bone-stock-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-beef-bone-stock-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-beef-bone-stock-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-beef-bone-stock-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-beef-bone-stock-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:37:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999",
+      "route": "/en/2024/09/25/halal-beef-essence-powder/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-beef-essence-powder/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-beef-essence-powder/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-beef-essence-powder/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-beef-essence-powder/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-beef-essence-powder/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0",
+      "route": "/en/2024/09/25/halal-beef-powder-hotpot-sausage/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-beef-powder-hotpot-sausage/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-beef-powder-hotpot-sausage/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-beef-powder-hotpot-sausage/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-beef-powder-hotpot-sausage/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-beef-powder-hotpot-sausage/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2",
+      "route": "/en/2024/09/25/halal-bone-broth-mala-base-5kg-2/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-bone-broth-mala-base-5kg-2/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-bone-broth-mala-base-5kg-2/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-bone-broth-mala-base-5kg-2/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-bone-broth-mala-base-5kg-2/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-bone-broth-mala-base-5kg-2/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3",
+      "route": "/en/2024/09/25/halal-bone-broth-mala-base-5kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-bone-broth-mala-base-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-bone-broth-mala-base-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-bone-broth-mala-base-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-bone-broth-mala-base-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-bone-broth-mala-base-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB",
+      "route": "/en/2024/09/25/halal-chicken-aroma-paste/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-chicken-aroma-paste/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-chicken-aroma-paste/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-chicken-aroma-paste/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-chicken-aroma-paste/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-chicken-aroma-paste/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64",
+      "route": "/en/2024/09/25/halal-chicken-essence-powder/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-chicken-essence-powder/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-chicken-essence-powder/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-chicken-essence-powder/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-chicken-essence-powder/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-chicken-essence-powder/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8",
+      "route": "/en/2024/09/25/halal-chicken-extract-paste-stock/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-chicken-extract-paste-stock/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-chicken-extract-paste-stock/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-chicken-extract-paste-stock/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-chicken-extract-paste-stock/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-chicken-extract-paste-stock/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599",
+      "route": "/en/2024/09/25/halal-concentrated-chicken-powder/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-concentrated-chicken-powder/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-concentrated-chicken-powder/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-concentrated-chicken-powder/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-concentrated-chicken-powder/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-concentrated-chicken-powder/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528",
+      "route": "/en/2024/09/25/halal-five-spice-beef-essence-paste/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-five-spice-beef-essence-paste/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-five-spice-beef-essence-paste/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-five-spice-beef-essence-paste/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-five-spice-beef-essence-paste/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-five-spice-beef-essence-paste/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:51:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3",
+      "route": "/en/2024/09/25/halal-green-pepper-chicken-paste/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-green-pepper-chicken-paste/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-green-pepper-chicken-paste/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-green-pepper-chicken-paste/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-green-pepper-chicken-paste/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-green-pepper-chicken-paste/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171",
+      "route": "/en/2024/09/25/halal-mala-ban-seasoning-sauce-5kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-mala-ban-seasoning-sauce-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-mala-ban-seasoning-sauce-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-mala-ban-seasoning-sauce-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-mala-ban-seasoning-sauce-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-mala-ban-seasoning-sauce-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D",
+      "route": "/en/2024/09/25/halal-mala-chicken-paste-1kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-mala-chicken-paste-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-mala-chicken-paste-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-mala-chicken-paste-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-mala-chicken-paste-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-mala-chicken-paste-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72",
+      "route": "/en/2024/09/25/halal-mala-xiangguo-sauce-1-5kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-mala-xiangguo-sauce-1-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-mala-xiangguo-sauce-1-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-mala-xiangguo-sauce-1-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-mala-xiangguo-sauce-1-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-mala-xiangguo-sauce-1-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99",
+      "route": "/en/2024/09/25/halal-mala-xiangguo-sauce-5kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-mala-xiangguo-sauce-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-mala-xiangguo-sauce-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-mala-xiangguo-sauce-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-mala-xiangguo-sauce-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-mala-xiangguo-sauce-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599",
+      "route": "/en/2024/09/25/halal-malatang-sauce-restaurant-5kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-malatang-sauce-restaurant-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-malatang-sauce-restaurant-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-malatang-sauce-restaurant-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-malatang-sauce-restaurant-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-malatang-sauce-restaurant-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89",
+      "canonicalId": "\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89",
+      "route": "/en/2024/09/25/halal-malatang-sauce-set-150g/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/halal-malatang-sauce-set-150g/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/halal-malatang-sauce-set-150g/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/halal-malatang-sauce-set-150g/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/halal-malatang-sauce-set-150g/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/halal-malatang-sauce-set-150g/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1",
+      "canonicalId": "\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1",
+      "route": "/en/2024/09/25/ma-lingjun-halal-chicken-powder-1kg/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/2024/09/25/ma-lingjun-halal-chicken-powder-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/2024/09/25/ma-lingjun-halal-chicken-powder-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/2024/09/25/ma-lingjun-halal-chicken-powder-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/2024/09/25/ma-lingjun-halal-chicken-powder-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/2024/09/25/ma-lingjun-halal-chicken-powder-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "about",
+      "canonicalId": "about",
+      "route": "/en/about/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/about/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/about/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/about/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/about/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/about/"
+        }
+      ],
+      "publishedAt": "2026-11-21T08:18:00+00:00"
+    },
+    {
+      "id": "contact",
+      "canonicalId": "contact",
+      "route": "/en/contact/",
+      "language": "en",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/en/contact/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/en/contact/"
+        },
+        {
+          "kind": "json",
+          "url": "/en/content/contact/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en/content/contact/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/en/contact/"
+        }
+      ],
+      "publishedAt": "2026-11-21T04:59:00+00:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505",
+      "route": "/ms/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:54:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95",
+      "route": "/ms/2024/09/24/asas-kuah-tulang-halal-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/24/asas-kuah-tulang-halal-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/24/asas-kuah-tulang-halal-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/24/asas-kuah-tulang-halal-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/24/asas-kuah-tulang-halal-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/24/asas-kuah-tulang-halal-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:25:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999",
+      "route": "/ms/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:37:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599",
+      "route": "/ms/2024/09/24/sup-tulang-lembu-kalsium-tinggi/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/24/sup-tulang-lembu-kalsium-tinggi/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/24/sup-tulang-lembu-kalsium-tinggi/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/24/sup-tulang-lembu-kalsium-tinggi/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/24/sup-tulang-lembu-kalsium-tinggi/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/24/sup-tulang-lembu-kalsium-tinggi/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:55:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2",
+      "route": "/ms/2024/09/25/asas-sup-mala-tulang-5kg-2/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/asas-sup-mala-tulang-5kg-2/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/asas-sup-mala-tulang-5kg-2/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/asas-sup-mala-tulang-5kg-2/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/asas-sup-mala-tulang-5kg-2/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/asas-sup-mala-tulang-5kg-2/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3",
+      "route": "/ms/2024/09/25/asas-sup-mala-tulang-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/asas-sup-mala-tulang-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/asas-sup-mala-tulang-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/asas-sup-mala-tulang-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/asas-sup-mala-tulang-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/asas-sup-mala-tulang-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1",
+      "canonicalId": "\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1",
+      "route": "/ms/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB",
+      "route": "/ms/2024/09/25/pes-aroma-ayam-halal/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/pes-aroma-ayam-halal/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/pes-aroma-ayam-halal/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-aroma-ayam-halal/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-aroma-ayam-halal/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-aroma-ayam-halal/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3",
+      "route": "/ms/2024/09/25/pes-ayam-lada-sichuan-hijau/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/pes-ayam-lada-sichuan-hijau/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/pes-ayam-lada-sichuan-hijau/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-ayam-lada-sichuan-hijau/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-ayam-lada-sichuan-hijau/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-ayam-lada-sichuan-hijau/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D",
+      "route": "/ms/2024/09/25/pes-ayam-mala-halal-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/pes-ayam-mala-halal-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/pes-ayam-mala-halal-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-ayam-mala-halal-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-ayam-mala-halal-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-ayam-mala-halal-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8",
+      "route": "/ms/2024/09/25/pes-ekstrak-ayam-halal-kuah/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/pes-ekstrak-ayam-halal-kuah/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/pes-ekstrak-ayam-halal-kuah/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-ekstrak-ayam-halal-kuah/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-ekstrak-ayam-halal-kuah/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-ekstrak-ayam-halal-kuah/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528",
+      "route": "/ms/2024/09/25/pes-pati-daging-lembu-lima-rempah/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/pes-pati-daging-lembu-lima-rempah/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/pes-pati-daging-lembu-lima-rempah/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-pati-daging-lembu-lima-rempah/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-pati-daging-lembu-lima-rempah/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-pati-daging-lembu-lima-rempah/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:51:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599",
+      "route": "/ms/2024/09/25/serbuk-ayam-pekat-halal/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/serbuk-ayam-pekat-halal/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/serbuk-ayam-pekat-halal/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/serbuk-ayam-pekat-halal/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/serbuk-ayam-pekat-halal/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/serbuk-ayam-pekat-halal/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0",
+      "route": "/ms/2024/09/25/serbuk-daging-lembu-halal-stimbot/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/serbuk-daging-lembu-halal-stimbot/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/serbuk-daging-lembu-halal-stimbot/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/serbuk-daging-lembu-halal-stimbot/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/serbuk-daging-lembu-halal-stimbot/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/serbuk-daging-lembu-halal-stimbot/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64",
+      "route": "/ms/2024/09/25/serbuk-pati-ayam-halal/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/serbuk-pati-ayam-halal/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/serbuk-pati-ayam-halal/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/serbuk-pati-ayam-halal/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/serbuk-pati-ayam-halal/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/serbuk-pati-ayam-halal/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999",
+      "route": "/ms/2024/09/25/serbuk-pati-daging-lembu-halal/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/serbuk-pati-daging-lembu-halal/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/serbuk-pati-daging-lembu-halal/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/serbuk-pati-daging-lembu-halal/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/serbuk-pati-daging-lembu-halal/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/serbuk-pati-daging-lembu-halal/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171",
+      "route": "/ms/2024/09/25/sos-mala-ban-komersial-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/sos-mala-ban-komersial-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/sos-mala-ban-komersial-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-mala-ban-komersial-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-mala-ban-komersial-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-mala-ban-komersial-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72",
+      "route": "/ms/2024/09/25/sos-mala-xiangguo-1-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/sos-mala-xiangguo-1-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/sos-mala-xiangguo-1-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-mala-xiangguo-1-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-mala-xiangguo-1-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-mala-xiangguo-1-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99",
+      "route": "/ms/2024/09/25/sos-mala-xiangguo-komersial-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/sos-mala-xiangguo-komersial-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/sos-mala-xiangguo-komersial-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-mala-xiangguo-komersial-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-mala-xiangguo-komersial-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-mala-xiangguo-komersial-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599",
+      "route": "/ms/2024/09/25/sos-malatang-rangkaian-restoran-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/sos-malatang-rangkaian-restoran-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/sos-malatang-rangkaian-restoran-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-malatang-rangkaian-restoran-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-malatang-rangkaian-restoran-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-malatang-rangkaian-restoran-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89",
+      "canonicalId": "\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89",
+      "route": "/ms/2024/09/25/sos-malatang-set-150g/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/sos-malatang-set-150g/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/sos-malatang-set-150g/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-malatang-set-150g/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-malatang-set-150g/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-malatang-set-150g/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505",
+      "route": "/ms/2024/09/25/stok-tulang-lembu-halal-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/2024/09/25/stok-tulang-lembu-halal-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/2024/09/25/stok-tulang-lembu-halal-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/stok-tulang-lembu-halal-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/stok-tulang-lembu-halal-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/stok-tulang-lembu-halal-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:37:00+08:00"
+    },
+    {
+      "id": "contact",
+      "canonicalId": "contact",
+      "route": "/ms/hubungi-kami/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/hubungi-kami/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/hubungi-kami/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/hubungi-kami/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/hubungi-kami/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/hubungi-kami/"
+        }
+      ],
+      "publishedAt": "2026-11-21T05:01:00+00:00"
+    },
+    {
+      "id": "about",
+      "canonicalId": "about",
+      "route": "/ms/tentang-kami/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/ms/tentang-kami/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/ms/tentang-kami/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/tentang-kami/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/tentang-kami/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/tentang-kami/"
+        }
+      ],
+      "publishedAt": "2026-11-21T08:19:00+00:00"
+    }
+  ]
+}

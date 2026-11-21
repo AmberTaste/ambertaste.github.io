@@ -1,0 +1,39 @@
+{
+  "id": "contact",
+  "slug": "hubungi-kami",
+  "canonicalUrlKey": "contact",
+  "route": "/hubungi-kami/",
+  "title": "Hubungi Kami",
+  "summary": null,
+  "body": "",
+  "language": "ms",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2021-01-12T17:29:00+08:00",
+  "updatedAt": "2026-11-21T05:01:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "contact",
+      "targetType": "content",
+      "targetId": "contact"
+    }
+  ],
+  "media": [],
+  "canonical": "https://ambertaste.com/ms/hubungi-kami/"
+}

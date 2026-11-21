@@ -1,0 +1,751 @@
+{
+  "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-11-21T08:19:00+00:00",
+  "documents": [
+    {
+      "id": "pes-ekstrak-daging-lembu-lima-rempah-1kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u4E94\u9999\u578B\u725B\u8089\u818F\u6D53\u7F29\u725B\u8089\u589E\u9999\u589E\u9C9C\u818F\u706B\u9505",
+      "route": "/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/23/pes-ekstrak-daging-lembu-lima-rempah-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:54:00+08:00"
+    },
+    {
+      "id": "asas-kuah-tulang-halal-1kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u6C64\u4E13\u7528\u6599\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505\u5E95",
+      "route": "/2024/09/24/asas-kuah-tulang-halal-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/24/asas-kuah-tulang-halal-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/24/asas-kuah-tulang-halal-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/24/asas-kuah-tulang-halal-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/24/asas-kuah-tulang-halal-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/24/asas-kuah-tulang-halal-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:25:00+08:00"
+    },
+    {
+      "id": "pes-ekstrak-daging-lembu-sos-1kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9171\u9999\u578B\u725B\u8089\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u98DF\u54C1\u6DFB\u52A0\u589E\u9999",
+      "route": "/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/24/pes-ekstrak-daging-lembu-sos-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:37:00+08:00"
+    },
+    {
+      "id": "sup-tulang-lembu-kalsium-tinggi",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AD8\u9499\u725B\u9AA8\u6C64\u5B9D\u9AA8\u6C64\u725B\u9AA8\u6C64\u7C73\u7EBF\u706B\u9505\u6C64\u6599",
+      "route": "/2024/09/24/sup-tulang-lembu-kalsium-tinggi/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/24/sup-tulang-lembu-kalsium-tinggi/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/24/sup-tulang-lembu-kalsium-tinggi/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/24/sup-tulang-lembu-kalsium-tinggi/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/24/sup-tulang-lembu-kalsium-tinggi/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/24/sup-tulang-lembu-kalsium-tinggi/"
+        }
+      ],
+      "publishedAt": "2024-09-24T23:55:00+08:00"
+    },
+    {
+      "id": "asas-sup-mala-tulang-5kg-2",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3-2",
+      "route": "/2024/09/25/asas-sup-mala-tulang-5kg-2/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/asas-sup-mala-tulang-5kg-2/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/asas-sup-mala-tulang-5kg-2/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/asas-sup-mala-tulang-5kg-2/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/asas-sup-mala-tulang-5kg-2/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/asas-sup-mala-tulang-5kg-2/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "asas-sup-mala-tulang-5kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9AA8\u6C64\u9EBB\u8FA3\u6C64\u9171\u6599\u6D53\u7F29\u8425\u517B\u53EF\u559D\u6C64\u7684\u9EBB\u8FA3",
+      "route": "/2024/09/25/asas-sup-mala-tulang-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/asas-sup-mala-tulang-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/asas-sup-mala-tulang-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/asas-sup-mala-tulang-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/asas-sup-mala-tulang-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/asas-sup-mala-tulang-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "ma-lingjun-serbuk-ayam-halal-1kg",
+      "canonicalId": "\u9A6C\u9886\u519B\u6E05\u771F\u9E21\u7C89\u9E21\u7CBE\u6D53\u90C1\u539F\u5473\u9187\u9C9C\u7092\u83DC\u7EAF\u6C64\u8C03\u5473\u54C1",
+      "route": "/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/ma-lingjun-serbuk-ayam-halal-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "pes-aroma-ayam-halal",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u9999\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB",
+      "route": "/2024/09/25/pes-aroma-ayam-halal/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/pes-aroma-ayam-halal/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/pes-aroma-ayam-halal/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-aroma-ayam-halal/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-aroma-ayam-halal/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-aroma-ayam-halal/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "pes-ayam-lada-sichuan-hijau",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9752\u82B1\u6912\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u7F8E\u5473\u98DF\u54C1\u706B\u9505\u9EBB\u8FA3",
+      "route": "/2024/09/25/pes-ayam-lada-sichuan-hijau/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/pes-ayam-lada-sichuan-hijau/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/pes-ayam-lada-sichuan-hijau/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-ayam-lada-sichuan-hijau/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-ayam-lada-sichuan-hijau/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-ayam-lada-sichuan-hijau/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "pes-ayam-mala-halal-1kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9E21\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u8089\u7CBE\u818F\u7C73\u7EBF\u7C89\u4E1D",
+      "route": "/2024/09/25/pes-ayam-mala-halal-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/pes-ayam-mala-halal-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/pes-ayam-mala-halal-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-ayam-mala-halal-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-ayam-mala-halal-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-ayam-mala-halal-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "pes-ekstrak-ayam-halal-kuah",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9E21\u8089\u818F\u9E21\u8089\u9C9C\u9999\u818F\u9E21\u7CBE\u818F\u706B\u9505\u9EBB\u8FA3\u70EB\u9AD8",
+      "route": "/2024/09/25/pes-ekstrak-ayam-halal-kuah/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/pes-ekstrak-ayam-halal-kuah/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/pes-ekstrak-ayam-halal-kuah/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-ekstrak-ayam-halal-kuah/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-ekstrak-ayam-halal-kuah/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-ekstrak-ayam-halal-kuah/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "pes-pati-daging-lembu-lima-rempah",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u818F\u4E94\u9999\u578B\u7F8E\u5473\u997A\u5B50\u4E38\u5B50\u9999\u80A0\u4E13\u7528",
+      "route": "/2024/09/25/pes-pati-daging-lembu-lima-rempah/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/pes-pati-daging-lembu-lima-rempah/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/pes-pati-daging-lembu-lima-rempah/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/pes-pati-daging-lembu-lima-rempah/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/pes-pati-daging-lembu-lima-rempah/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/pes-pati-daging-lembu-lima-rempah/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:51:00+08:00"
+    },
+    {
+      "id": "serbuk-ayam-pekat-halal",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64\u6599",
+      "route": "/2024/09/25/serbuk-ayam-pekat-halal/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/serbuk-ayam-pekat-halal/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/serbuk-ayam-pekat-halal/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/serbuk-ayam-pekat-halal/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/serbuk-ayam-pekat-halal/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/serbuk-ayam-pekat-halal/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "serbuk-daging-lembu-halal-stimbot",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999\u80A0",
+      "route": "/2024/09/25/serbuk-daging-lembu-halal-stimbot/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/serbuk-daging-lembu-halal-stimbot/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/serbuk-daging-lembu-halal-stimbot/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/serbuk-daging-lembu-halal-stimbot/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/serbuk-daging-lembu-halal-stimbot/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/serbuk-daging-lembu-halal-stimbot/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "serbuk-pati-ayam-halal",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u6D53\u7F29\u9E21\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u6D53\u9999\u9E21\u7C89\u9AA8\u6C64\u7C89\u6C64",
+      "route": "/2024/09/25/serbuk-pati-ayam-halal/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/serbuk-pati-ayam-halal/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/serbuk-pati-ayam-halal/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/serbuk-pati-ayam-halal/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/serbuk-pati-ayam-halal/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/serbuk-pati-ayam-halal/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "serbuk-pati-daging-lembu-halal",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u8089\u7CBE\u7C89\u9C9C\u9999\u7C89\u706B\u9505\u9EBB\u8FA3\u70EB\u725B\u8089\u98CE\u5473\u9999",
+      "route": "/2024/09/25/serbuk-pati-daging-lembu-halal/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/serbuk-pati-daging-lembu-halal/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/serbuk-pati-daging-lembu-halal/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/serbuk-pati-daging-lembu-halal/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/serbuk-pati-daging-lembu-halal/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/serbuk-pati-daging-lembu-halal/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:58:00+08:00"
+    },
+    {
+      "id": "sos-mala-ban-komersial-5kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u62CC\u8C03\u5473\u9171\u52FE\u9B42\u723D\u53E3\u98DF\u54C1\u98CE\u5473\u9171",
+      "route": "/2024/09/25/sos-mala-ban-komersial-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/sos-mala-ban-komersial-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/sos-mala-ban-komersial-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-mala-ban-komersial-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-mala-ban-komersial-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-mala-ban-komersial-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "sos-mala-xiangguo-1-5kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u9EBB\u8FA3\u9999\u9505\u91711-5kg\u4E32\u4E32\u9999\u8FA3\u9171\u5C0F\u9F99\u867E\u9999\u9505\u5E72",
+      "route": "/2024/09/25/sos-mala-xiangguo-1-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/sos-mala-xiangguo-1-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/sos-mala-xiangguo-1-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-mala-xiangguo-1-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-mala-xiangguo-1-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-mala-xiangguo-1-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "sos-mala-xiangguo-komersial-5kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u5546\u7528\u9EBB\u8FA3\u9999\u9505\u91715kg\u7F8E\u5473\u4E32\u4E32\u9999\u98CE\u5473\u5C0F\u9F99",
+      "route": "/2024/09/25/sos-mala-xiangguo-komersial-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/sos-mala-xiangguo-komersial-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/sos-mala-xiangguo-komersial-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-mala-xiangguo-komersial-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-mala-xiangguo-komersial-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-mala-xiangguo-komersial-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "sos-malatang-rangkaian-restoran-5kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528-\u9171\u6599",
+      "route": "/2024/09/25/sos-malatang-rangkaian-restoran-5kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/sos-malatang-rangkaian-restoran-5kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/sos-malatang-rangkaian-restoran-5kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-malatang-rangkaian-restoran-5kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-malatang-rangkaian-restoran-5kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-malatang-rangkaian-restoran-5kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "sos-malatang-set-150g",
+      "canonicalId": "\u6E05\u771F\u7F8E\u5473\u98DF\u54C1\u9EBB\u8FA3\u70EB\u9171\u6599\u9910\u996E\u8FDE\u9501\u4E13\u7528\u9171\u659990\u514B\u7C89",
+      "route": "/2024/09/25/sos-malatang-set-150g/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/sos-malatang-set-150g/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/sos-malatang-set-150g/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/sos-malatang-set-150g/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/sos-malatang-set-150g/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/sos-malatang-set-150g/"
+        }
+      ],
+      "publishedAt": "2024-09-25T14:57:00+08:00"
+    },
+    {
+      "id": "stok-tulang-lembu-halal-1kg",
+      "canonicalId": "\u5B89\u6CCA\u5C14\u6E05\u771F\u725B\u9AA8\u9AD8\u6C64\u5546\u7528\u7EAF\u9AA8\u6C64\u725B\u8089\u6C64\u725B\u8089\u9762\u706B\u9505",
+      "route": "/2024/09/25/stok-tulang-lembu-halal-1kg/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/2024/09/25/stok-tulang-lembu-halal-1kg/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/2024/09/25/stok-tulang-lembu-halal-1kg/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/2024/09/25/stok-tulang-lembu-halal-1kg/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/2024/09/25/stok-tulang-lembu-halal-1kg/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/2024/09/25/stok-tulang-lembu-halal-1kg/"
+        }
+      ],
+      "publishedAt": "2024-09-25T01:37:00+08:00"
+    },
+    {
+      "id": "hubungi-kami",
+      "canonicalId": "contact",
+      "route": "/hubungi-kami/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/hubungi-kami/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/hubungi-kami/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/hubungi-kami/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/hubungi-kami/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/hubungi-kami/"
+        }
+      ],
+      "publishedAt": "2026-11-21T05:01:00+00:00"
+    },
+    {
+      "id": "tentang-kami",
+      "canonicalId": "about",
+      "route": "/tentang-kami/",
+      "language": "ms",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/tentang-kami/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/tentang-kami/"
+        },
+        {
+          "kind": "json",
+          "url": "/ms/content/tentang-kami/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/ms/content/tentang-kami/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://ambertaste.com/ms/tentang-kami/"
+        }
+      ],
+      "publishedAt": "2026-11-21T08:19:00+00:00"
+    }
+  ]
+}

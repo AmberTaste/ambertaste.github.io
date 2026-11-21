@@ -1,0 +1,39 @@
+{
+  "id": "contact",
+  "slug": "contact",
+  "canonicalUrlKey": "contact",
+  "route": "/contact/",
+  "title": "Contact",
+  "summary": null,
+  "body": "",
+  "language": "en",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2021-01-12T17:29:00+08:00",
+  "updatedAt": "2026-11-21T04:59:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "contact",
+      "targetType": "content",
+      "targetId": "contact"
+    }
+  ],
+  "media": [],
+  "canonical": "https://ambertaste.com/en/contact/"
+}

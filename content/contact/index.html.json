@@ -1,0 +1,39 @@
+{
+  "id": "contact",
+  "slug": "contact",
+  "canonicalUrlKey": "contact",
+  "route": "/contact/",
+  "title": "\u8054\u7CFB\u65B9\u5F0F",
+  "summary": null,
+  "body": "\u003Cdiv class=\u0022callout\u0022\u003E\u003Cspan class=\u0022callout-icon\u0022\u003E\u2139\uFE0F\u003C/span\u003E\u003Cdiv class=\u0022callout-content\u0022\u003E\u8054\u7CFB\u9875\u7684\u5730\u5740\u3001\u5DE5\u4F5C\u65F6\u95F4\u3001\u7535\u8BDD\u548C\u90AE\u7BB1\u90FD\u5728\u300C\u7AD9\u70B9\u8BBE\u7F6E Site Settings\u300D\u6570\u636E\u5E93\u91CC\u7EF4\u62A4\uFF08scope = contact\uFF09\uFF0C\u9875\u7709\u91CC\u7684\u90AE\u7BB1\u548C\u7535\u8BDD\u4E5F\u8BFB\u540C\u4E00\u4EFD\u6570\u636E\u3002\u5730\u56FE\u5730\u5740\u5728\u672C\u9875\u7684 Map URL \u5C5E\u6027\u91CC\u3002\u003C/div\u003E\u003C/div\u003E\n",
+  "language": "zh-Hans",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2021-01-12T17:29:00+08:00",
+  "updatedAt": "2026-11-09T07:53:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "contact",
+      "targetType": "content",
+      "targetId": "contact"
+    }
+  ],
+  "media": [],
+  "canonical": "https://ambertaste.com/contact/"
+}

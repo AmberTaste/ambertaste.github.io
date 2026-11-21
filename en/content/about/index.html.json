@@ -1,0 +1,39 @@
+{
+  "id": "about",
+  "slug": "about",
+  "canonicalUrlKey": "about",
+  "route": "/about/",
+  "title": "About Us",
+  "summary": null,
+  "body": "\u003Ch2\u003ECompany Profile\u003C/h2\u003E\n\u003Cp\u003EDrawing on the rich salt resources of Ye County, China\u0026#39;s salt capital, the strong halal heritage of Mazhuang Hui Ethnic Township and advanced scientific processes, Lingjun offers Muslim consumers genuine halal seasonings and meat-extract flavourings.\u003C/p\u003E\n\u003Cp\u003EMr Ma Lingjun, founder of Lingjun, was born into a Muslim family in Mazhuang Hui Ethnic Township, \u003Ca href=\u0022https://baike.baidu.com/item/%E5%8F%B6%E5%8E%BF/0?fromModule=lemma_inlink\u0022 rel=\u0022noopener noreferrer\u0022\u003EYe County\u003C/a\u003E. He studied religious knowledge under the renowned Hui scholar Ma Baoguang, holds a firm faith and is devoted to Islam. To keep the halal food market pure and make halal food truly halal, he committed himself fully to the halal food business. He is meticulous about the halal status of raw materials and the quality of products. He invites Islamic professionals to supervise halal compliance and technical staff to give technical guidance, and has invested heavily in advanced production equipment, combining traditional craft with modern science to produce delicious halal seasonings.\u003C/p\u003E\n\u003Cp\u003ECustomers: large halal food manufacturers, frozen food and snack food producers, catering businesses, supermarkets of all sizes and rural convenience stores.\u003C/p\u003E\n\u003Cp\u003ELingjun halal seasonings: chicken powder, chicken juice, flavoured compound seasonings, specialty seasonings (mala, sesame, stir-fry and meat-aroma), chilli oil and spicy beef sauce.\u003C/p\u003E\n\u003Cp\u003EMeat extracts for food processing: chicken aroma paste for grilled sausages, slow-stewed beef extract paste for dumplings, sauce-aroma beef extract paste for seasonings, high-calcium beef bone marrow for grilled sausages, high-calcium stock for hotpot, pure chicken powder, pure beef powder for hotpot and meatballs, halal instant-noodle seasoning sauce sachets and seasoning powder sachets.\u003C/p\u003E\n\u003Cp\u003ESnack foods: dry mala, tomato, cumin and chicken sprinkle powders \u2014 more than fifty products in total.\u003C/p\u003E\n\u003Cimg src=\u0022http://themeplugs.com/wp/batpa/wp-content/uploads/2021/01/blog3.jpg\u0022 alt=\u0022\u0022 /\u003E\n\u003Ch2\u003EHonours\u003C/h2\u003E\n\u003Cul\u003E\n\u003Cli\u003EIn September 2011 the company was invited to the Ningxia Halal Food and Muslim Products Expo, where its exhibits were well received by Muslims across Ningxia.\u003C/li\u003E\n\u003Cli\u003EIn November 2011, in the halal food famous brand and enterprise selection organised by the Henan Provincial Ethnic Affairs Commission, Ma Lingjun brand seasonings were named a \u0026quot;Henan Famous Halal Food Brand\u0026quot;.\u003C/li\u003E\n\u003Cli\u003EIn mid-July 2012 the company was invited to the China (Qinghai) International Halal Food and Products Expo and received the \u0026quot;Best Product Award\u0026quot; from the organising committee.\u003C/li\u003E\n\u003Cli\u003EOn 1 April 2013 the company was invited by Malaysia\u0026#39;s Ministry of International Trade to attend the International Halal Food Forum and halal food business meetings, and was warmly received by former Malaysian Prime Minister Abdullah Badawi, with whom it had a commemorative photograph taken.\u003C/li\u003E\n\u003Cli\u003EOn 13 September 2013, at the fourth China Muslim Food and Products Enterprise Selection held in Ningxia, it was the only Henan company shortlisted and was awarded the \u0026quot;Outstanding Muslim Entrepreneur of China Award\u0026quot;.\u003C/li\u003E\n\u003Cli\u003EIn November 2013 it was invited to the China Halal Industry Summit held at the Diaoyutai State Guesthouse.\u003C/li\u003E\n\u003Cli\u003EIn November 2013, when the Henan Halal Food Industry Association was founded, the company was elected a council member organisation.\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cimg src=\u0022https://img.alicdn.com/imgextra/i1/3382189652/O1CN01q0N7yF2LAfdQTjoMp_!!3382189652.jpg\u0022 alt=\u0022\u0022 /\u003E\n",
+  "language": "en",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2021-01-12T17:29:00+08:00",
+  "updatedAt": "2026-11-21T08:18:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "about",
+      "targetType": "content",
+      "targetId": "about"
+    }
+  ],
+  "media": [],
+  "canonical": "https://ambertaste.com/en/about/"
+}

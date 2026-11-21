@@ -1,9 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='http://ambertaste.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='September 25, 2024 7:42 am' -->
-<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>http://ambertaste.com/</loc>
-		<lastmod>2024-09-25T07:42:13+00:00</lastmod>
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xhtml='http://www.w3.org/1999/xhtml' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+	<url>
+		<loc>https://ambertaste.com/</loc>
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://ambertaste.com/"/>
+		<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ambertaste.com/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://ambertaste.com/en/"/>
+		<xhtml:link rel="alternate" hreflang="ms" href="https://ambertaste.com/ms/"/>
+		<lastmod>2024-09-25T06:58:00+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
-</urlset><!-- Request ID: 51f2e3423948abc6ddfd55b520b784af; Queries for sitemap: 4; Total queries: 56; Seconds: 0; Memory for sitemap: 1KB; Total memory: 6MB -->
+</urlset>
